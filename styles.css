@@ -1,0 +1,61 @@
+.home{
+    background-image: url("background.jpg");
+    background-size: 100;
+    background-size: cover;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+h1{
+    font-family: 'Bellefair', serif;
+}
+
+#firstpagebody{
+        color: #D0D6F9;
+        font-family: 'Barlow Condensed', sans-serif;
+        word-wrap: inherit;
+        letter-spacing: 1px;
+        font-weight: 500;}
+
+.typingoffirstpage{
+    position:absolute;
+    bottom: 20%;
+    left: 7%;
+    margin-right: 80%;
+    
+}
+
+
+h1{
+    font-size:60px;
+    color: #ffffff;
+    margin-top: 100px;
+    margin-bottom: 240px;
+    margin-left:100px;
+    font-weight: 300;
+}
+p {
+    font-size: large;
+    font-family: Times New Roman, Times, Serif;
+    text-indent: 2em
+    }
+    p1 {
+    font-size: large;
+    font-family: helvectia, geneva, arial, sun-sans, sans serif;
+    color: #ffffff
+    }
+    p2 {
+    font-size: large;
+    font-family: helvectia, geneva, arial, sun-sans, sans serif;
+    color: #ffffff
+    }
+    p3 {
+    font-size: large;
+    font-family: helvectia, geneva, arial, sun-sans, sans serif;
+    color: #ffffff
+    }
+    p4 {
+    font-size: large;
+    font-family: helvectia, geneva, arial, sun-sans, sans serif;
+    color: #ffffff
+    }

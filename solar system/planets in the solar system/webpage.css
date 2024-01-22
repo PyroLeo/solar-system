@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("images/mars\ wallpaper.jpg");    
+    background-size: 25;
+    background-size: cover;
+    margin-right: 0px;
+    margin-top: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+h1{  
+    color :azure;
+    text-align: center;
+}
+h2{  
+    color :azure;
+}
+h4{
+    font-family: 'Bellefair', serif;
+}
+
+.box{  
+    
+    padding: 20px;
+    background: rgb(111, 128, 144, 50%);
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    display: flex;
+    transition: 0.5s;
+    
+}
+
+.box:hover{ 
+    box-shadow: 0 15px 30px rgba(0, 0, 0, .5);
+}
+
+
+
+
+.box .imgbx{
+    justify-content: center;
+    flex: 0 0 250px;
+}
+
+.box .content{ 
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.box .content h4{ 
+    margin: 0;
+    padding-left: 0;
+    color: #0d0c1b;
+    font-size: 22px;
+}
+
+.box .content p{
+    margin: 0;
+    padding: 10px 0 0;
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+header{
+        display: flex;
+        justify-content: right;
+        margin: 30px;
+}
+
+header ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+}
+
+header ul li{
+        margin-right: 30px;
+}
+
+header ul li a{
+        padding: 6px 15px;
+        border-radius: 20px;
+}
+
+header ul li a:hover{
+    background: rgb(111, 128, 144, 50%);
+        color: #fff7fc;
+ }
+
